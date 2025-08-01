@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Casey_Lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/casey-lee0624/)](https://www.linkedin.com/in/casey-lee0624/)  [![Gmail Badge](https://img.shields.io/badge/-sakuratreehappy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakuratreehappy@gmail.com)](mailto:sakuratreehappy@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Casey_Lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/casey-lee0624/)](https://www.linkedin.com/in/casey-lee0624/)  [![Gmail Badge](https://img.shields.io/badge/-kcleebusiness01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakuratreehappy@gmail.com)](mailto:sakuratreehappy@gmail.com) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 -  **Info :** I am a senior attending the University of Georgia in Athens. I am well versed in full stack web development and GUI design.
